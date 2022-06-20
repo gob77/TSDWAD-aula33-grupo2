@@ -9,7 +9,7 @@ Scrum (n): Es un marco de trabajo a través del cual lgitas personas pueden abor
 ●	No está restringido a proyectos de software solamente.
 ●	Su visión es opuesta a la propuesta por la metodología en cascada.
 
- # LAS CEREMONIAS SE REALIZAN A LO LARGO DEL PROYECTO:
+**LAS CEREMONIAS SE REALIZAN A LO LARGO DEL PROYECTO**:
 
 - **Sprint Planning Meeting** (reunión de planificación del sprint). 
 Se produce al iniciar cada Sprint y tiene por objetivo _decidir que se va a realizar en el Sprint_.
@@ -25,7 +25,7 @@ Se produce al finalizar el Sprint y tiene por objeto _mostrar qué es lo que se 
 Se produce también al finalizar el Sprint y tiene por objeto _documentar qué ha funcionado y qué no ha funcionado
 en el Sprint_. La idea de dicha reunión es centrar al equipo en lo que salió bien y en lo que debe mejorar para la próxima interación. De ninguna manera se centra en lo que salió mal. 
 
-# **ROLES PARA EL EQUIPO DE TRABAJO** : 
+**ROLES PARA EL EQUIPO DE TRABAJO** : 
 
 ● **Product Owner:** es responsable de definir y priorizar temas y objetivos con criterios de aceptación, el QUÉ. 
 
