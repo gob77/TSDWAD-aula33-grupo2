@@ -9,7 +9,7 @@ Scrum (n): Es un marco de trabajo a través del cual lgitas personas pueden abor
 ●	No está restringido a proyectos de software solamente.
 ●	Su visión es opuesta a la propuesta por la metodología en cascada.
 
-> LAS CEREMONIAS SE REALIZAN A LO LARGO DEL PROYECTO:
+> ## LAS CEREMONIAS SE REALIZAN A LO LARGO DEL PROYECTO:
 
 - **Sprint Planning Meeting** (reunión de planificación del sprint). 
 Se produce al iniciar cada Sprint y tiene por objetivo _decidir que se va a realizar en el Sprint_.
