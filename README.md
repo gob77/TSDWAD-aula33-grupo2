@@ -35,6 +35,7 @@ en el Sprint_. La idea de dicha reunión es centrar al equipo en lo que salió b
 
 
 **ARTEFACTOS SCRUM** :
+
 ● Los Artefactos según la guía Scrum, están diseñados para maximizar la transparencia de la información, que es necesaria para asegurar que todo el equipo tenga el mismo entendimiento del Artefacto.
 
 Las decisiones para optimizar el valor y controlar el riesgo se hacen con base en estos Artefactos, por lo tanto si no son lo suficientemente transparentes se puede incurrir en decisiones erróneas.
