@@ -1,0 +1,11 @@
+lsInsert into dueno values('32456892','Pedro','Perez','4453212','las margaritas 800');
+Insert into dueno values('33456090','Pepe','Sanchez','4453235','las higueras 1000');
+Insert into perro values(1,'Bobby',''2022-08-12'','M','33456090');
+Insert into perro values(2,'Simon','2021-07-13','M','33456090');
+Insert into perro values(3,'felix','2021-07-12','M','33456090');
+Insert into historial values(1,curdate(),1,'dolor de vesicula',2000);
+Insert into historial values(2,curdate(),2,'dolor de vesicula',2000);
+Insert into historial values(3,curdate(),3,'dolor de vesicula',2000);
+Update historial set historial.perro = 2 where ID_historial = 2; 
+select * from historial,perro,dueno where historial.perro = perro.ID_perro and perro.DNI_dueno = dueno.DNI;
+select dueno.dni,dueno.nombre as dueno_nombre, dueno.apellido as dueno_apellido, perro.fecha_nac, perro.nombre as perro, historial.fecha, historial.descripcion, historial.monto from historial,perro,dueno where historial.perro = perro.ID_perro and perro.DNI_dueno = dueno.DNI;
